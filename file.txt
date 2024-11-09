@@ -1,1 +1,2 @@
 this is text file created in branch1 
+appended some text
