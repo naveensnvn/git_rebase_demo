@@ -1,2 +1,4 @@
 this is text file created in branch1 
-appended some text
+this is 2nd line appended 
+this is 3rd line appended 
+this is 4th line appened
